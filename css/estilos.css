@@ -1,0 +1,10 @@
+* {
+    color: red;
+    margin: 2PX;
+    padding: 30PX;
+    border: 5px dashed #1C6EA4;
+    border-radius: 40px 40px 40px 40px;
+    font-family: 'Roboto Mono', monospace;
+    background-color: aquamarine;
+    
+}
